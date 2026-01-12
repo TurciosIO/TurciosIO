@@ -1,15 +1,15 @@
 # Hi there, I'm Luis Rodriguez
 
-### 📟 Embedded Software Engineer | C++ Specialist
-*Focusing on Safety-Critical Systems & Medical Devices*
+### 🩺 R&D Software Engineer | Embedded Systems & Medical Devices
+*Specialized in C/C++, RTOS, and Safety-Critical Software.*
 
 ---
 
-### 👨‍💻 Professional Profile
+### 👨‍💻 About Me
 
-I am a software engineer specializing in **Embedded Systems**. My professional background is built on precision and reliability, working primarily in the **Medical Device industry**.
+I am a Software Engineer with **over 5 years of experience** in the Medical Device industry. My expertise lies in designing and verifying embedded software that complies with strict regulatory standards like **IEC 62304 and FDA**.
 
-I deal with code that interacts directly with hardware, where efficiency and zero-failure rates are mandatory.
+My background covers the full software lifecycle—from **requirements to validation**—giving me a holistic understanding of what it takes to build robust, failure-proof systems using **C/C++ and RTOS**.
 
 * 🔭 **Currently working on:** C++ development for embedded medical devices.
 * 🛡️ **Core Philosophy:** Safety-first architecture and rigorous testing.
@@ -17,13 +17,19 @@ I deal with code that interacts directly with hardware, where efficiency and zer
 
 ---
 
-### 🛠 Professional Tech Stack (The "Metal")
+### 🛠 Professional Tech Stack
 *Tools I use daily in production environments.*
 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![GoogleTest](https://img.shields.io/badge/GoogleTest-%23666666.svg?style=for-the-badge&logo=google&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+
+![Helix](https://img.shields.io/badge/Helix-%2328153e.svg?style=for-the-badge&logo=helix&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 **Key Skills:**
 * Embedded C++ Development.
