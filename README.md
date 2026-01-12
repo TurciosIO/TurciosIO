@@ -20,15 +20,34 @@ My background covers the full software lifecycle—from **requirements to valida
 ### 🛠 Professional Tech Stack
 *Tools I use daily in production environments.*
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  
+  <br>
 
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+  <img src="https://img.shields.io/badge/GoogleTest-4285F4?style=flat&logo=google&logoColor=white" alt="GoogleTest" />
+  <img src="https://img.shields.io/badge/PyTest-0A9EDC?style=flat&logo=pytest&logoColor=white" alt="PyTest" />
+  
+  <br>
 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+  <img src="https://img.shields.io/badge/Eclipse_ThreadX-0078D4?style=flat&logo=eclipseide&logoColor=white" alt="ThreadX" />
+  <img src="https://img.shields.io/badge/ThreadX_GUIX-0078D4?style=flat&logo=eclipseide&logoColor=white" alt="ThreadX GUIX" />
+  <img src="https://img.shields.io/badge/QM_/_QP_Framework-CC0000?style=flat&logoColor=white" alt="QM QP" />
+  
+  <br>
+
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white&clean=1" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white&clean=1" alt="VS Code" />
+  <img src="https://img.shields.io/badge/IAR_Embedded-DB0021?style=flat&logoColor=white" alt="IAR" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white&clean=1" alt="PowerShell" />
+  
+  <br>
+
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/Perforce-404040?style=flat&logo=perforce&logoColor=white" alt="Perforce" />
+</p>
 
 **Key Skills:**
 * Embedded C++ Development.
@@ -65,4 +84,6 @@ I share my engineering journey and tutorials under the brand **TurciOS / Metal2P
 
 <!--[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@TurciosIO)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/TurciosIO)-->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/turciosio)
+<a href="https://www.linkedin.com/in/turciosio">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
